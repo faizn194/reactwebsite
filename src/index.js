@@ -6,7 +6,7 @@ import Sdata from './Sdata';
 
 ReactDOM.render(
   <>
-    <h1 className='heading_style'> List of top 5 thinks I love most</h1>
+    <h1 className='heading_style'> List of top 5 thinks SANIA love most</h1>
     <Card
       imgSrc={Sdata[0].imgSrc}
       title={Sdata[0].title}
